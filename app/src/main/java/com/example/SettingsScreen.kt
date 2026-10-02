@@ -1,4 +1,4 @@
-package com.shopvion.flowgrid
+package com.shopvion.flowgridgame
 
 import androidx.compose.animation.animateColorAsState
 import androidx.compose.animation.core.animateFloatAsState
@@ -28,7 +28,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
-import com.shopvion.flowgrid.ui.theme.*
+import com.shopvion.flowgridgame.ui.theme.*
 import kotlin.math.roundToInt
 
 @Composable

@@ -1,4 +1,4 @@
-package com.shopvion.flowgrid
+package com.shopvion.flowgridgame
 
 import android.content.Context
 import androidx.test.core.app.ApplicationProvider

@@ -1,4 +1,4 @@
-package com.shopvion.flowgrid
+package com.shopvion.flowgridgame
 
 import org.junit.Assert.*
 import org.junit.Test

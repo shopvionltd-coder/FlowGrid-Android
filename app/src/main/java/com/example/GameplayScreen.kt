@@ -1,4 +1,4 @@
-package com.shopvion.flowgrid
+package com.shopvion.flowgridgame
 
 import android.app.Activity
 import androidx.compose.animation.core.*
@@ -34,7 +34,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
-import com.shopvion.flowgrid.ui.theme.*
+import com.shopvion.flowgridgame.ui.theme.*
 
 /**
  * Validates if a single color pair is fully and legally connected.

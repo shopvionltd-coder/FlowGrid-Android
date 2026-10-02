@@ -1,4 +1,4 @@
-package com.shopvion.flowgrid
+package com.shopvion.flowgridgame
 
 import android.content.Context
 import android.content.SharedPreferences
@@ -40,7 +40,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
 import com.example.R
-import com.shopvion.flowgrid.ui.theme.*
+import com.shopvion.flowgridgame.ui.theme.*
 import kotlinx.coroutines.delay
 import java.util.Random
 
@@ -48,7 +48,7 @@ import java.util.Random
 // 1. APP ARCHITECTURE & CONFIGURATION CONSTANTS
 // ---------------------------------------------------------
 object GameConfig {
-    const val PACKAGE_NAME = "com.shopvion.flowgrid"
+    const val PACKAGE_NAME = "com.shopvion.flowgridgame"
     const val GAME_TITLE = "FlowGrid"
     const val GAME_SUBTITLE = "2D Pipe Puzzle"
     const val APP_VERSION = "2.0"

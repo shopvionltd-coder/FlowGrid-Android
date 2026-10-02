@@ -1,4 +1,4 @@
-package com.shopvion.flowgrid
+package com.shopvion.flowgridgame
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -17,8 +17,8 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
-import com.shopvion.flowgrid.ui.theme.FlowGridTheme
-import com.shopvion.flowgrid.ui.theme.cubixPalette
+import com.shopvion.flowgridgame.ui.theme.FlowGridTheme
+import com.shopvion.flowgridgame.ui.theme.cubixPalette
 
 sealed class Screen {
     data object Splash : Screen()

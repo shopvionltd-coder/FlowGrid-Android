@@ -1,4 +1,4 @@
-package com.shopvion.flowgrid.ui.theme
+package com.shopvion.flowgridgame.ui.theme
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.ReadOnlyComposable

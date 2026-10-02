@@ -1,4 +1,4 @@
-package com.shopvion.flowgrid
+package com.shopvion.flowgridgame
 
 import androidx.compose.animation.core.*
 import androidx.compose.foundation.background
@@ -19,7 +19,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.window.Dialog
-import com.shopvion.flowgrid.ui.theme.*
+import com.shopvion.flowgridgame.ui.theme.*
 
 /**
  * 3D Cubist Win Modal Dialog
