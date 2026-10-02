@@ -1,0 +1,6 @@
+{
+  "name": "FlowGrid",
+  "description": "FlowGrid: 2D Pipe Puzzle - A 2D Pipe-Connecting Flow Puzzle Game with 100 levels featuring smooth Claymorphism design and responsive drag mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

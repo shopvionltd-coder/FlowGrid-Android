@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ad-services-config>
+    <!-- Empty config disables unnecessary measurement service bindings on emulators -->
+</ad-services-config>
