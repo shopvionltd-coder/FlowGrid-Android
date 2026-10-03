@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39222275268",
+    "project_id": "flowgrid-game",
+    "storage_bucket": "flowgrid-game.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39222275268:android:f3fa7080109f6fe6eead91",
+        "android_client_info": {
+          "package_name": "com.shopvion.flowgrid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4ZVp50bc2cFfQvRfNHl-26y3Tkrm7Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39222275268:android:dd219b6e9634d1c0eead91",
+        "android_client_info": {
+          "package_name": "com.shopvion.flowgridgame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4ZVp50bc2cFfQvRfNHl-26y3Tkrm7Sg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
